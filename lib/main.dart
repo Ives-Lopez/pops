@@ -80,7 +80,7 @@ class _MyAppState extends State<MyApp> {
               _buildContactInfo(
                 imagePath: 'images/ivan.jpg',
                 name: 'Ivan G. Lopez',
-                address: 'Santiago Sta Ana Pampanga',
+                address: '392 PUROK 6, Santiago Sta Ana Pampanga',
                 phoneNumber: '0907-568-0924',
                 email: 'ivanlopezglm@gmail.com',
               ),
@@ -92,7 +92,7 @@ class _MyAppState extends State<MyApp> {
               _buildContactInfo(
                 imagePath: 'images/ives.jpg',
                 name: 'Ives G. Lopez',
-                address: 'Santiago Sta Ana Pampanga',
+                address: '392 PUROK 6, Santiago Sta Ana Pampanga',
                 phoneNumber: '0907-597-0824',
                 email: 'iveslopezf2p@gmail.com',
               ),
